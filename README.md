@@ -4,3 +4,7 @@ High-performance computing solution for complex problems
 ## Update 2025-10-27 19:32:49
 Updated documentation following security guidelines - ID: p1yej9gx
 
+
+## Update 2025-10-27 19:32:58
+Added configuration for better user experience - ID: qzlm75eb
+
